@@ -20,9 +20,9 @@ About this item future
 
 [+] Set Icon Option 
 
-[+] Add any file in first fild 
+[+] Add any file in first field 
 
-[+] Add any file in second fild
+[+] Add any file in second field
 
 [+] execute file hiddenly 
 
